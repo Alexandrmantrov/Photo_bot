@@ -1,1 +1,1 @@
-worker: python Блокнот.py
+worker: python Фото-текст бот .ipynb
